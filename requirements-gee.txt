@@ -1,0 +1,3 @@
+# Optional: Sentinel-2 extraction via Google Earth Engine (needs your own authenticated account)
+-r requirements.txt
+earthengine-api>=0.1.390,<2
